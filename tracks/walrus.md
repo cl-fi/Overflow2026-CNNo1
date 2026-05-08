@@ -62,3 +62,7 @@ As agents evolve from simple assistants to autonomous, long-running systems, the
 
 - [Seal 文档](https://docs.sui.io) — Walrus 和 MemWal 的隐私层
 - Sui Stack Messaging — 使用 Walrus 进行存储和恢复、使用 Seal 进行隐私保护的消息工具
+
+## 学习资源 / Learning Resources
+
+- [Let's Walrus](https://github.com/hoh-zone/lets-walrus) — Walrus 中文入门教程

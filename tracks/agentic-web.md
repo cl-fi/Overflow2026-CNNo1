@@ -41,3 +41,7 @@ AI 智能体被困在"审批墙"之后——每个操作都需要人类签名。
 
 - 项目必须展示 Sui 在 AI 系统中的**具体价值**（而非仅作为支付通道）
 - 优先考虑真正利用 Sui 原语的智能系统
+
+## 学习资源 / Learning Resources
+
+- [Learning Sui](https://hoh-zone.github.io/learning-sui/) — Sui 中文教程（Move 语言、对象模型、PTB、zkLogin 等）

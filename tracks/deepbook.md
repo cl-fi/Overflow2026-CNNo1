@@ -90,3 +90,7 @@ Prediction markets today are powerful, but still fundamentally fragmented and sh
 - 基于 Predict 构建的金库、结构化产品或可组合代币
 - Bot、Keeper 或套利服务
 - 开发者工具、SDK 或分析仪表盘
+
+## 学习资源 / Learning Resources
+
+- [DeepBook Bootcamp](https://github.com/hoh-zone/deepbook-bootcamp) — DeepBook 中文实战教程

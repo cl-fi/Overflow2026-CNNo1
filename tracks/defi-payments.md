@@ -105,3 +105,7 @@ Sui 引入了一种根本不同的金融系统构建模型：
 - 真实世界的适用性
 
 > Build something that makes money move smarter.
+
+## 学习资源 / Learning Resources
+
+- [Learning Sui](https://hoh-zone.github.io/learning-sui/) — Sui 中文教程（Move 语言、对象模型、PTB、Coin/NFT 等）

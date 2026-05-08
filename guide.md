@@ -208,6 +208,11 @@ submissions/
 | OtterSec | 链上安全审计标准 | [osec.io](https://osec.io) |
 | Scallop | Sui 生态下一代货币市场 | [scallop.io](https://scallop.io) |
 
+**中文学习资源：**
+- [Learning Sui](https://hoh-zone.github.io/learning-sui/) — Sui 中文教程（Move 语言、对象模型、PTB 等，适用 Agentic Web / DeFi & Payments）
+- [DeepBook Bootcamp](https://github.com/hoh-zone/deepbook-bootcamp) — DeepBook 中文实战教程（适用 DeepBook 赛道）
+- [Let's Walrus](https://github.com/hoh-zone/lets-walrus) — Walrus 中文入门教程（适用 Walrus 赛道）
+
 **赛道专属资源：**
 - **Agentic Web** — Problem Statement: [agentic-web-problem-statement](https://mystenlabs.notion.site/agentic-web-problem-statement)
 - **DeFi & Payments** — Problem Statement: [defi-payments-problem-statement](https://mystenlabs.notion.site/defi-payments-problem-statement)

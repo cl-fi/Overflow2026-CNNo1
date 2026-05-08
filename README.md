@@ -102,6 +102,11 @@ submissions/
 | [Scallop](https://scallop.io) | Sui 生态下一代货币市场 |
 | [Handbook](https://mystenlabs.notion.site/overflow-2026-handbook) | 官方参赛手册 |
 
+**中文学习资源：**
+- [Learning Sui](https://hoh-zone.github.io/learning-sui/) — Sui 中文教程（覆盖 Move 语言、对象模型、PTB 等基础，适用 Agentic Web / DeFi & Payments）
+- [DeepBook Bootcamp](https://github.com/hoh-zone/deepbook-bootcamp) — DeepBook 中文实战教程（适用 DeepBook 赛道）
+- [Let's Walrus](https://github.com/hoh-zone/lets-walrus) — Walrus 中文入门教程（适用 Walrus 赛道）
+
 **赛道 Problem Statements：**
 - [Agentic Web](https://mystenlabs.notion.site/agentic-web-problem-statement)
 - [DeFi & Payments](https://mystenlabs.notion.site/defi-payments-problem-statement)
