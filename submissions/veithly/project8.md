@@ -15,7 +15,7 @@ SplitRail 是 Sui 原生的工资单/AA 账单轨道。一笔 PTB 把一枚 coin
 
 ## Links / 链接
 
-- DeepSurge: https://www.deepsurge.xyz/create/project?hackathon=b587dc0c-4cb8-4e63-ada5-519df38103bf _(pending official upload)_
+- DeepSurge: https://www.deepsurge.xyz/project/e6a5ccaf-17be-488f-96a4-10964ef4d1c8
 - GitHub: https://github.com/veithly/splitrail
 - Demo Video: https://youtu.be/p2WRFnQs0no
 - Website: https://splitrail.veithly.workers.dev

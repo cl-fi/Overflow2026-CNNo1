@@ -15,7 +15,7 @@ TxTrace 是 Sui 开发者一直想要的内置 DevTools 面板。粘贴任意 Te
 
 ## Links / 链接
 
-- DeepSurge: https://www.deepsurge.xyz/create/project?hackathon=b587dc0c-4cb8-4e63-ada5-519df38103bf _(pending official upload)_
+- DeepSurge: https://www.deepsurge.xyz/project/6a204477-a34b-405d-a853-862f774bdddd
 - GitHub: https://github.com/veithly/txtrace
 - Demo Video: https://youtu.be/PfokF_IhDgk
 - Website: https://txtrace.veithly.workers.dev

@@ -15,7 +15,7 @@ PunchPredict 是基于 ONE Championship 拳赛 prop 的 Sui 原生预测市场�
 
 ## Links / 链接
 
-- DeepSurge: https://www.deepsurge.xyz/create/project?hackathon=b587dc0c-4cb8-4e63-ada5-519df38103bf _(pending official upload)_
+- DeepSurge: https://www.deepsurge.xyz/project/a459ac8f-9e16-491f-a544-a00f5052c1d2
 - GitHub: https://github.com/veithly/punchpredict
 - Demo Video: https://youtu.be/h5HXDKRY8A8
 - Website: https://punchpredict.veithly.workers.dev

@@ -15,7 +15,7 @@ DripDeep 是 Sui 上第一个面向散户的条件式 DCA 工具。市面上 DCA
 
 ## Links / 链接
 
-- DeepSurge: https://www.deepsurge.xyz/create/project?hackathon=b587dc0c-4cb8-4e63-ada5-519df38103bf _(pending official upload)_
+- DeepSurge: https://www.deepsurge.xyz/project/df2f6929-8e00-4c46-a3a8-903431095575
 - GitHub: https://github.com/veithly/dripdeep
 - Demo Video: https://youtu.be/EFkULL4_Qe4
 - Website: https://dripdeep.veithly.workers.dev

@@ -15,7 +15,7 @@ InstantRent 把租约变成 Sui 上的秒级现金流。租客扫码充值未来
 
 ## Links / 链接
 
-- DeepSurge: https://www.deepsurge.xyz/create/project?hackathon=b587dc0c-4cb8-4e63-ada5-519df38103bf _(pending official upload)_
+- DeepSurge: https://www.deepsurge.xyz/project/c5b30cc9-73bb-4db8-b36a-76ca2ab5cd32
 - GitHub: https://github.com/veithly/instantrent
 - Demo Video: https://youtu.be/aq_UyWeuq2g
 - Website: https://instantrent.veithly.workers.dev

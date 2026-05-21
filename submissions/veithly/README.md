@@ -15,7 +15,7 @@ SmolAgent 把链上杂活变成"按需雇佣"。每个 agent 都是 1 SUI 铸造
 
 ## Links / 链接
 
-- DeepSurge: https://www.deepsurge.xyz/create/project?hackathon=b587dc0c-4cb8-4e63-ada5-519df38103bf _(pending official upload)_
+- DeepSurge: https://www.deepsurge.xyz/project/a8429d61-782b-48eb-80d3-adddafdaa831
 - GitHub: https://github.com/veithly/smolagent
 - Demo Video: https://youtu.be/HHKVO3Z9A68
 - Website: https://smolagent.veithly.workers.dev
