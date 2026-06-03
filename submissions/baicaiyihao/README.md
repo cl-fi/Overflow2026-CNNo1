@@ -29,9 +29,11 @@ SUI Intent Engine 是为 Sui 原生 CLOB (DeepBook V3) 设计的 **意图引擎*
 - Bilingual LLM prompt 字典（按 locale 自动切换中英 prompt，避免 "EN UI 出中文答案"）
 - Bloomberg Terminal 风格落地页 + 实时 SUI/USDC 行情面板
 - 已在 Sui 主网验证 7+ 笔真实交易（限价单 / 市价单 / 存款 / 提取）
+- **自研 Move 合约 `sui_intent_fee::protocol_fee` 已发布主网**（11/11 单元测试，0.005 SUI/intent 协议费）
 - 全部 TypeScript + React + Vite 前端，Python FastAPI 后端
 
 **商业化路径**：
+0. **链上协议费**（已上线）— 每个 Intent 0.005 SUI 进 `ProtocolTreasury` 共享对象，可由 admin 提取
 1. DeepBook V3 手续费返佣（0.05–0.10%/笔）
 2. 订阅制 AI 信号（Free / Pro $29 / Pro+ $99）
 3. 策略市场（70/30 订阅分成，链上战绩溯源）
@@ -54,7 +56,23 @@ SUI Intent Engine 是为 Sui 原生 CLOB (DeepBook V3) 设计的 **意图引擎*
 ## Deployment / 部署信息
 
 - **Env: Mainnet** (SUI 主网)
-- **项目自身未部署 Move 合约**，调用以下 Sui 原生 / 生态合约：
+- **项目自有 Move 合约已发布**：`sui_intent_fee::protocol_fee`（11/11 单元测试通过）
+
+### 自有合约 (Own Contract)
+
+| 名称 | Package / Object ID | 用途 |
+|---|---|---|
+| `sui_intent_fee` package | `0xad95919bbc8e08a36c28bf885fd7e8413296f63979d13b329d8713424157fd90` | Move 2024.beta 协议费模块 |
+| `ProtocolTreasury` (shared) | `0x5e54f169aa2df2c3fe2a7624170d1c85feb7ebf9b54f57e51cb80fc84578ed91` | 接收每个 intent 的 0.005 SUI |
+| `UpgradeCap` | `0x78386b44de6fb0d19cefa3722ceb3f1ef85da3456ded7fd19ad2e7e1bd7773cf` | 合约升级权限 |
+| Admin (deployer) | `0x90abb670800b4015229d30f5d010faef0c347e1d9650c9acebe2c012be7eb724` | 合约管理员 |
+
+- 端到端验证交易（mainnet）：`4jGNB1W56Ehfy73nHEyfrK48XxQmWkzcDePVPxehvG1D`
+- 测试网 Package：`0x9e7d5e8048f44773afede881ebb65422c01f686cfe2f141fb7bf9ef002859465`
+- 默认费率：0.005 SUI / intent（5,000,000 MIST）
+- 事件：`FeePaid` / `FeeWithdrawn` / `FeeUpdated` / `AdminTransferred`（可链上索引做 dashboard）
+
+### 调用的 Sui 原生 / 生态合约 (External Dependencies)
 
 | 合约 | Package ID | 用途 |
 |---|---|---|
