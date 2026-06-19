@@ -10,7 +10,7 @@
 Sui ChainPet is an on-chain desktop agent for Sui. It models pets and tasks as Sui Move objects, uses confirmed Sui events to drive a desktop whale companion, and includes a local Agent Pick layer that recommends task priority from deadline and reward EXP. It makes wallet-owned Sui state visible, personal, and actionable.
 
 ## Links / ...
-- DeepSurge: Pending official project showcase link; will update after DeepSurge submission is live.
+- DeepSurge: https://deepsurge.xyz/projects/ef390a11-9256-4f0c-846f-7b3bd868425f
 - GitHub: https://github.com/resurrection-i/sui-chainpet
 - Demo Video: https://youtu.be/fVbvOQFml14
 - Website: N/A
