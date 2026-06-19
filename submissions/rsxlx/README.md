@@ -17,7 +17,7 @@ VolShape Studio 是一个面向 DeepBook Predict 的“收益曲线优先”交�
 
 - DeepSurge: Pending official DeepSurge project page
 - GitHub: https://github.com/RSXLX/volshape-studio
-- Demo Video: Pending public video upload
+- Demo Video: https://youtu.be/PeQCG-V15NU
 - Website: https://volshape-studio.vercel.app
 
 ## Team / 团队成员
