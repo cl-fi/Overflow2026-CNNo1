@@ -29,4 +29,4 @@ Strike5 is a short-cycle BTC prediction arena powered by DeepBook Predict on Sui
 
 ## Swag / 周边
 
-- [ ] 我希望接收周边 / I'd like to receive swag
+<input type="checkbox" checked> 我希望接收周边 / I would like to receive swag
