@@ -28,8 +28,8 @@
 ## Links / 链接
 
 - GitHub: https://github.com/csy143/walrus-agent-memory
-- Demo Video: https://... (YouTube, ≤ 5 min)
-- Website: https://... (optional)
+- Demo Video:  https://youtu.be/n0HHwFJFCTM
+
 
 ## Team / 团队成员
 
