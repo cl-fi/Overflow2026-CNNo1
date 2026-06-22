@@ -13,9 +13,9 @@ RiskPilot is a bounded Sui DeFi agent for wallet risk response. It observes a Su
 
 ## Links / 链接
 
-- DeepSurge: TBD
+- DeepSurge: https://www.deepsurge.xyz/projects/3c063875-1db0-42c1-8aa5-7b7a7989bdda
 - GitHub: https://github.com/1pzq/suiOverflow-2026
-- Demo Video: TBD
+- Demo Video: https://www.youtube.com/watch?v=yLYFBZ6LV4s
 - Website: TBD
 
 ## Team / 团队成员
